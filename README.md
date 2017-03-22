@@ -1,2 +1,2 @@
-# Calculator
-简易计算器安卓APP
+# 简易计算器安卓APP
+教程：http://hubojing.github.io/2017/03/22/%E5%88%B6%E4%BD%9C%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8APP%EF%BC%88%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84%EF%BC%89/
